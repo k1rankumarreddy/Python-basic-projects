@@ -1,2 +1,8 @@
 # firstrepositoydemo
-I am leaning how it is going on.
+Hii, guys.,
+
+Now i am create my github account succesfully.
+.
+.
+.
+DONE!
