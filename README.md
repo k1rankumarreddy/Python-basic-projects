@@ -1,8 +1,4 @@
 # firstrepositoydemo
 Hii, guys.,
 
-Now i am create my github account succesfully.
-.
-.
-.
-DONE!
+I will post my py_pojects here...
