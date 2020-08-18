@@ -1,4 +1,5 @@
-# firstrepositoydemo
-Hii, guys.,
+# Python-projects
 
-I will post my py_pojects here...
+Now i want explore my knowledge.
+
+So, collect my rays if you usable.
